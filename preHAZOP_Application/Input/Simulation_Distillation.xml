@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object name="HE75, C7" type="Material Stream">
+    <Property name="Temperature" value="37,5834" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="3600" units="kg/h" />
+    <Property name="Molar Flow" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow" value="3,62764" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="992,382" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2388,71" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-7,68577" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43033,3" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-138,461" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,627831" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="992,382" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2388,71" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-7,68577" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43033,3" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-138,461" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,627831" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="6,89765E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000684511" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,1936" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3600" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="3,62764" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,000828074" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+  </Object>
+  <Object name="C6, HE75" type="Material Stream">
+    <Property name="Temperature" value="20" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="3600" units="kg/h" />
+    <Property name="Molar Flow" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow" value="3,60877" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="997,569" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2461,62" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-8,39687" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-44346,8" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-151,272" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,602567" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="997,569" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2461,62" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-8,39687" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-44346,8" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-151,272" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,602567" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,0139E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00101144" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,19315" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3600" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="3,60877" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,000862184" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+  </Object>
+  <Object name="VE109, T22" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow" value="2,49212" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,195594" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,758721" units="" />
+    <Property name="Water" value="0,241279" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,195594" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,22209E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00102507" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,74425" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="2,49212" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00139003" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="VE110, T22" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow" value="2,49212" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,195594" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,758721" units="" />
+    <Property name="Water" value="0,241279" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,195594" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,22209E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00102507" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,74425" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="2,49212" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00139003" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="T20, VE110" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow" value="2,49212" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,195594" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,758721" units="" />
+    <Property name="Water" value="0,241279" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,195594" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,22209E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00102507" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,74425" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="2,49212" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00139003" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="T20, VE109" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow" value="2,49212" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,195594" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,758721" units="" />
+    <Property name="Water" value="0,241279" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,195594" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,22209E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00102507" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,74425" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="2090,34" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="55275,6" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="2,49212" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00139003" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="PL153, HE75" type="Material Stream">
+    <Property name="Temperature" value="100,002" units="C" />
+    <Property name="Pressure" value="3,51325" units="bar" />
+    <Property name="Mass Flow" value="819,599" units="kg/h" />
+    <Property name="Molar Flow" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow" value="0,855283" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="958,279" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2120,46" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-6,21256" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-38200,6" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-111,921" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,680947" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="958,279" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2120,46" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-6,21256" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-38200,6" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-111,921" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,680947" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="2,90256E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000278146" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,21784" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="819,599" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,855283" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00256216" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+  </Object>
+  <Object name="VE114, VE155" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="3,51325" units="bar" />
+    <Property name="Mass Flow" value="819,599" units="kg/h" />
+    <Property name="Molar Flow" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow" value="0,822589" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="996,366" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2440,7" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-8,75996" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43969,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-157,813" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,610248" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="996,366" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2440,7" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-8,75996" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43969,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-157,813" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,610248" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="9,0135E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000898074" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,19322" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="819,599" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,822589" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00295397" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+  </Object>
+  <Object name="HE75, VE114" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="3,51325" units="bar" />
+    <Property name="Mass Flow" value="819,599" units="kg/h" />
+    <Property name="Molar Flow" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow" value="0,822589" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="996,366" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2440,7" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-8,75996" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43969,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-157,813" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,610248" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="996,366" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2440,7" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-8,75996" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43969,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-157,813" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,610248" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="9,0135E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000898074" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,19322" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="819,599" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,822589" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00295397" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+  </Object>
+  <Object name="C15, HE37" type="Material Stream">
+    <Property name="Temperature" value="20" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="3600" units="kg/h" />
+    <Property name="Molar Flow" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow" value="3,60877" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="997,569" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2461,62" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-8,39687" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-44346,8" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-151,272" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,602567" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="997,569" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2461,62" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-8,39687" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-44346,8" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-151,272" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,602567" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,0139E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00101144" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,19315" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3600" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="3,60877" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,000862184" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+  </Object>
+  <Object name="PL135, C19" type="Material Stream">
+    <Property name="Temperature" value="25,0558" units="C" />
+    <Property name="Pressure" value="5,01325" units="bar" />
+    <Property name="Mass Flow" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow" value="4,98383" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="838,847" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1150,35" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,99861" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43502,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-151,214" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,195583" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,759686" units="" />
+    <Property name="Water" value="0,240314" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="838,847" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1150,35" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,99861" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43502,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-151,214" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,195583" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,22277E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00102572" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,74462" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="4,98383" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00687598" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="T22, PL135" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow" value="4,98424" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,195594" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,758721" units="" />
+    <Property name="Water" value="0,241279" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,195594" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,22209E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00102507" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,74424" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="4,98424" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00139003" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="HE37, T20" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow" value="4,98424" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,195594" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,758721" units="" />
+    <Property name="Water" value="0,241279" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="838,779" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1150,99" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,64994" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43526,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-138,029" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,195594" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,22209E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00102507" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,74425" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="4,98424" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00139003" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="HE37, C8" type="Material Stream">
+    <Property name="Temperature" value="66,4227" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="3600" units="kg/h" />
+    <Property name="Molar Flow" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow" value="3,6759" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="979,351" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2267,23" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-6,66156" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-40844,8" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-120,01" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,659145" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="979,351" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2267,23" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-6,66156" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-40844,8" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-120,01" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,659145" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="4,27434E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000418608" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,19768" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3600" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="199830" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="3,6759" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00078154" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+  </Object>
+  <Object name="C2, CO61" type="Material Stream">
+    <Property name="Temperature" value="25" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="5000" units="kg/h" />
+    <Property name="Molar Flow" value="156046" units="mol/h" />
+    <Property name="Volumetric Flow" value="5,68615" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,5" units="" />
+    <Property name="Water" value="0,5" units="" />
+    <Property name="Density (Mixture)" value="879,33" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1372,92" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-4,38231" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-43990,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-140,417" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,232169" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0,66712" units="" />
+    <Property name="Water" value="0,33288" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,5" units="" />
+    <Property name="Water" value="0,5" units="" />
+    <Property name="Density (Overall Liquid)" value="879,33" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1372,92" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-4,38231" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-43990,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-140,417" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,232169" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="1,12347E-06" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000987898" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,99838" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="5000" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="156046" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="5,68615" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00114112" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,5" units="" />
+    <Property name="Water" value="0,5" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="HE22, HE37" type="Material Stream">
+    <Property name="Temperature" value="78,7077" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow" value="5,28547" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Mixture)" value="790,975" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-983,594" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-2,56506" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-37196,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-97,0018" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,184888" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Density (Overall Liquid)" value="790,975" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="37,8166" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-983,594" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-2,56506" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-37196,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-97,0018" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,184888" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,207E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00041186" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="3,21888" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="4180,68" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="110551" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="5,28547" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00127077" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="0,705852" units="" />
+    <Property name="Water" value="0,294148" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="CO61, PL153" type="Material Stream">
+    <Property name="Temperature" value="99,9823" units="C" />
+    <Property name="Pressure" value="1,01325" units="bar" />
+    <Property name="Mass Flow" value="819,599" units="kg/h" />
+    <Property name="Molar Flow" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow" value="0,855317" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Mixture)" value="958,24" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-2120,8" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-5,63999" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-38206,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-101,606" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,680939" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="mol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Density (Overall Liquid)" value="958,24" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="18,0153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-2120,8" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-5,63999" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-38206,9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-101,606" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,680939" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="2,90146E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00027803" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="4,21782" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="819,599" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="45494,7" units="mol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,855317" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,000739011" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Ethanol" value="1,77122E-10" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Ethanol" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+  </Object>
+  <Object name="T20" type="Material Stream Splitter">
+    <Property name="Stream 1 Flow Spec" value="0" units="" />
+    <Property name="Stream 2 Flow Spec" value="0" units="" />
+    <Property name="SR1" value="0,5" units="" />
+    <Property name="SR2" value="0,5" units="" />
+  </Object>
+  <Object name="PL153" type="Adiabatic Pump">
+    <Property name="Pressure Increase (Head)" value="2,5" units="bar" />
+    <Property name="Efficiency" value="75" units="" />
+    <Property name="Temperature Difference" value="0,0194419" units="C." />
+    <Property name="Power Required" value="0,079196" units="kW" />
+    <Property name="Available NPSH" value="8,19096E-10" units="m" />
+    <Property name="Outlet Pressure" value="0" units="bar" />
+  </Object>
+  <Object name="PL135" type="Adiabatic Pump">
+    <Property name="Pressure Increase (Head)" value="4" units="bar" />
+    <Property name="Efficiency" value="75" units="" />
+    <Property name="Temperature Difference" value="0,0558102" units="C." />
+    <Property name="Power Required" value="0,738406" units="kW" />
+    <Property name="Available NPSH" value="11,3647" units="m" />
+    <Property name="Outlet Pressure" value="0" units="bar" />
+  </Object>
+  <Object name="VE110" type="Liquid Storage Tank">
+    <Property name="Liquid Level" value="0" units="m" />
+    <Property name="Height" value="2" units="m" />
+    <Property name="Initialize using Inlet Stream" value="0" units="" />
+    <Property name="Reset Content" value="0" units="" />
+    <Property name="Pressure Drop" value="0" units="bar" />
+    <Property name="Volume" value="0" units="m3" />
+    <Property name="Residence Time" value="0" units="s" />
+  </Object>
+  <Object name="VE114" type="Liquid Storage Tank">
+    <Property name="Liquid Level" value="0" units="m" />
+    <Property name="Height" value="2" units="m" />
+    <Property name="Initialize using Inlet Stream" value="0" units="" />
+    <Property name="Reset Content" value="0" units="" />
+    <Property name="Pressure Drop" value="0" units="bar" />
+    <Property name="Volume" value="1" units="m3" />
+    <Property name="Residence Time" value="4376,43" units="s" />
+  </Object>
+  <Object name="VE109" type="Liquid Storage Tank">
+    <Property name="Liquid Level" value="0" units="m" />
+    <Property name="Height" value="2" units="m" />
+    <Property name="Initialize using Inlet Stream" value="0" units="" />
+    <Property name="Reset Content" value="0" units="" />
+    <Property name="Pressure Drop" value="0" units="bar" />
+    <Property name="Volume" value="6,3" units="m3" />
+    <Property name="Residence Time" value="9100,69" units="s" />
+  </Object>
+  <Object name="HE75" type="Heat Exchanger">
+    <Property name="Cold Fluid Flow Conductance" value="1" units="[kg/s]/[Pa^0.5]" />
+    <Property name="Hot Fluid Flow Conductance" value="1" units="[kg/s]/[Pa^0.5]" />
+    <Property name="Volume for Cold Fluid" value="1" units="m3" />
+    <Property name="Volume for Hot Fluid" value="1" units="m3" />
+    <Property name="Cold Side Pressure" value="101325" units="bar" />
+    <Property name="Hot Side Pressure" value="101325" units="bar" />
+    <Property name="Minimum Pressure" value="101325" units="bar" />
+    <Property name="Initialize using Inlet Streams" value="0" units="" />
+    <Property name="Reset Contents" value="0" units="" />
+    <Property name="Global Heat Transfer Coefficient (U)" value="3205,44" units="W/[m2.K]" />
+    <Property name="Heat Exchange Area (A)" value="1" units="m2" />
+    <Property name="Heat Load" value="72,9083" units="kW" />
+    <Property name="Cold fluid outlet temperature" value="37,5834" units="C" />
+    <Property name="Hot fluid outlet temperature" value="25" units="C" />
+    <Property name="[Shell and Tube] Internal Shell Diameter" value="500000" units="mm" />
+    <Property name="[Shell and Tube] Shell Fouling Factor" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Baffle Cut" value="20" units="%" />
+    <Property name="[Shell and Tube] Shells in Series" value="1" units="" />
+    <Property name="[Shell and Tube] Baffle Spacing" value="250000" units="mm" />
+    <Property name="[Shell and Tube] Internal Tube Diameter" value="50000" units="mm" />
+    <Property name="[Shell and Tube] External Tube Diameter" value="60000" units="mm" />
+    <Property name="[Shell and Tube] Tube Length" value="5" units="m" />
+    <Property name="[Shell and Tube] Tube Fouling factor" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Tube Passes Per Shell" value="2" units="" />
+    <Property name="[Shell and Tube] Number of Tubes" value="50" units="" />
+    <Property name="[Shell and Tube] Tube Pitch" value="70000" units="mm" />
+    <Property name="[Shell and Tube] Fouling Factor (Design)" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] LMTD Correction Factor (F)" value="1" units="" />
+    <Property name="Logarithmic mean temperature difference LMTD" value="22,7452" units="C." />
+    <Property name="[Shell and Tube] Resistance heat transfer pipes" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Resistance thermal conductivity pipes" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Resistance heat transfer shell" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Reynolds number shell" value="0" units="" />
+    <Property name="[Shell and Tube] Reynolds number tubes" value="0" units="" />
+    <Property name="Thermal Efficiency" value="93,936" units="%" />
+    <Property name="Maximum Theoretical Heat Exchange" value="77,6148" units="kW" />
+    <Property name="Minimum Temperature Difference" value="0" units="C." />
+    <Property name="Heat Loss" value="0" units="kW" />
+    <Property name="User-Defined LMTD Correction Factor" value="1" units="" />
+    <Property name="Outlet Vapor Fraction (Stream 1)" value="0" units="" />
+    <Property name="Outlet Vapor Fraction (Stream 2)" value="0" units="" />
+    <Property name="Pressure Drop (Cold Side)" value="0" units="bar" />
+    <Property name="Pressure Drop (Hot Side)" value="0" units="bar" />
+  </Object>
+  <Object name="HE37" type="Heat Exchanger">
+    <Property name="Cold Fluid Flow Conductance" value="1" units="[kg/s]/[Pa^0.5]" />
+    <Property name="Hot Fluid Flow Conductance" value="1" units="[kg/s]/[Pa^0.5]" />
+    <Property name="Volume for Cold Fluid" value="1" units="m3" />
+    <Property name="Volume for Hot Fluid" value="1" units="m3" />
+    <Property name="Cold Side Pressure" value="101325" units="bar" />
+    <Property name="Hot Side Pressure" value="101325" units="bar" />
+    <Property name="Minimum Pressure" value="101325" units="bar" />
+    <Property name="Initialize using Inlet Streams" value="0" units="" />
+    <Property name="Reset Contents" value="0" units="" />
+    <Property name="Global Heat Transfer Coefficient (U)" value="23987,2" units="W/[m2.K]" />
+    <Property name="Heat Exchange Area (A)" value="1" units="m2" />
+    <Property name="Heat Load" value="194,392" units="kW" />
+    <Property name="Cold fluid outlet temperature" value="66,4227" units="C" />
+    <Property name="Hot fluid outlet temperature" value="25" units="C" />
+    <Property name="[Shell and Tube] Internal Shell Diameter" value="500000" units="mm" />
+    <Property name="[Shell and Tube] Shell Fouling Factor" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Baffle Cut" value="20" units="%" />
+    <Property name="[Shell and Tube] Shells in Series" value="1" units="" />
+    <Property name="[Shell and Tube] Baffle Spacing" value="250000" units="mm" />
+    <Property name="[Shell and Tube] Internal Tube Diameter" value="50000" units="mm" />
+    <Property name="[Shell and Tube] External Tube Diameter" value="60000" units="mm" />
+    <Property name="[Shell and Tube] Tube Length" value="5" units="m" />
+    <Property name="[Shell and Tube] Tube Fouling factor" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Tube Passes Per Shell" value="2" units="" />
+    <Property name="[Shell and Tube] Number of Tubes" value="50" units="" />
+    <Property name="[Shell and Tube] Tube Pitch" value="70000" units="mm" />
+    <Property name="[Shell and Tube] Fouling Factor (Design)" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] LMTD Correction Factor (F)" value="1" units="" />
+    <Property name="Logarithmic mean temperature difference LMTD" value="8,10397" units="C." />
+    <Property name="[Shell and Tube] Resistance heat transfer pipes" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Resistance thermal conductivity pipes" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Resistance heat transfer shell" value="0" units="K.m2/W" />
+    <Property name="[Shell and Tube] Reynolds number shell" value="0" units="" />
+    <Property name="[Shell and Tube] Reynolds number tubes" value="0" units="" />
+    <Property name="Thermal Efficiency" value="92,2169" units="%" />
+    <Property name="Maximum Theoretical Heat Exchange" value="210,798" units="kW" />
+    <Property name="Minimum Temperature Difference" value="0" units="C." />
+    <Property name="Heat Loss" value="0" units="kW" />
+    <Property name="User-Defined LMTD Correction Factor" value="1" units="" />
+    <Property name="Outlet Vapor Fraction (Stream 1)" value="0" units="" />
+    <Property name="Outlet Vapor Fraction (Stream 2)" value="0" units="" />
+    <Property name="Pressure Drop (Cold Side)" value="0" units="bar" />
+    <Property name="Pressure Drop (Hot Side)" value="0" units="bar" />
+  </Object>
+  <Object name="CO61" type="Distillation Column">
+    <Property name="Condenser Pressure" value="1,01325" units="bar" />
+    <Property name="Reboiler Pressure" value="1,01325" units="bar" />
+    <Property name="Condenser Pressure Drop" value="0" units="bar" />
+    <Property name="Reflux Ratio" value="5" units="" />
+    <Property name="Distillate Molar Flow" value="110551" units="mol/h" />
+    <Property name="Condenser Duty" value="7441,68" units="kW" />
+    <Property name="Reboiler Duty" value="-7723,43" units="kW" />
+    <Property name="Number of Stages" value="25" units="" />
+    <Property name="Stage_Pressure_1" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_2" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_3" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_4" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_5" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_6" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_7" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_8" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_9" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_10" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_11" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_12" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_13" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_14" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_15" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_16" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_17" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_18" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_19" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_20" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_21" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_22" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_23" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_24" value="1,01325" units="bar" />
+    <Property name="Stage_Pressure_25" value="1,01325" units="bar" />
+    <Property name="Stage_Efficiency_1" value="1" units="" />
+    <Property name="Stage_Efficiency_2" value="1" units="" />
+    <Property name="Stage_Efficiency_3" value="1" units="" />
+    <Property name="Stage_Efficiency_4" value="1" units="" />
+    <Property name="Stage_Efficiency_5" value="1" units="" />
+    <Property name="Stage_Efficiency_6" value="1" units="" />
+    <Property name="Stage_Efficiency_7" value="1" units="" />
+    <Property name="Stage_Efficiency_8" value="1" units="" />
+    <Property name="Stage_Efficiency_9" value="1" units="" />
+    <Property name="Stage_Efficiency_10" value="1" units="" />
+    <Property name="Stage_Efficiency_11" value="1" units="" />
+    <Property name="Stage_Efficiency_12" value="1" units="" />
+    <Property name="Stage_Efficiency_13" value="1" units="" />
+    <Property name="Stage_Efficiency_14" value="1" units="" />
+    <Property name="Stage_Efficiency_15" value="1" units="" />
+    <Property name="Stage_Efficiency_16" value="1" units="" />
+    <Property name="Stage_Efficiency_17" value="1" units="" />
+    <Property name="Stage_Efficiency_18" value="1" units="" />
+    <Property name="Stage_Efficiency_19" value="1" units="" />
+    <Property name="Stage_Efficiency_20" value="1" units="" />
+    <Property name="Stage_Efficiency_21" value="1" units="" />
+    <Property name="Stage_Efficiency_22" value="1" units="" />
+    <Property name="Stage_Efficiency_23" value="1" units="" />
+    <Property name="Stage_Efficiency_24" value="1" units="" />
+    <Property name="Stage_Efficiency_25" value="1" units="" />
+    <Property name="Stage_Temperature_1" value="78,7077" units="C" />
+    <Property name="Stage_Temperature_2" value="79,1144" units="C" />
+    <Property name="Stage_Temperature_3" value="80,2877" units="C" />
+    <Property name="Stage_Temperature_4" value="85,0845" units="C" />
+    <Property name="Stage_Temperature_5" value="93,5151" units="C" />
+    <Property name="Stage_Temperature_6" value="96,0332" units="C" />
+    <Property name="Stage_Temperature_7" value="99,5213" units="C" />
+    <Property name="Stage_Temperature_8" value="99,9343" units="C" />
+    <Property name="Stage_Temperature_9" value="99,9751" units="C" />
+    <Property name="Stage_Temperature_10" value="99,9822" units="C" />
+    <Property name="Stage_Temperature_11" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_12" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_13" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_14" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_15" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_16" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_17" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_18" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_19" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_20" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_21" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_22" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_23" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_24" value="99,9823" units="C" />
+    <Property name="Stage_Temperature_25" value="99,9823" units="C" />
+    <Property name="Condenser_Specification_Value" value="5" units="" />
+    <Property name="Reboiler_Specification_Value" value="15" units="mol/s" />
+    <Property name="Global_Stage_Efficiency" value="G6" units="" />
+    <Property name="Condenser_Calculated_Value" value="5" units="" />
+    <Property name="Reboiler_Calculated_Value" value="15" units="mol/s" />
+  </Object>
+</Objects>

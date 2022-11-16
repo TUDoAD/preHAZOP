@@ -1,0 +1,5 @@
+Please check possible Issues:
+P_max_design in CO61: 200000.0 lower then P_max_design in HE139: 3200000.0
+T_max_design in HE22: 200.0 lower then T_max_design in CO61: 250.0
+P_max_design in HE9: 300000.0 lower then P_max_design in HE22: 600000.0
+Check of inconsistence in design pressure and temperature completed!
