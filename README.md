@@ -407,11 +407,25 @@ The preHAZOP is able to detect the following HAZOP-scenarios automatically in an
 ### Consistency checks (pressure/temperature)
 
 ## Examples
-The folder *./preHAZOP_Application/Input* containts example file for an distillation process of Ethanol/Water. 
+The folder *./preHAZOP_Application/Input* containts example file for an distillation process of Ethanol/Water.<br>
 
-<span style=color:red>Text ueber Beispiel PID / PID</span>
+- Vizualization of the [example DEXPI-P&ID](./preHAZOP_Application/Input/DEXPI_Distillation.xml)[^10]:
+<figure role="group">
+  <img src="./figures/PID_distillation.png" alt="SelfHTML-Logo" width=700>
+    <figcaption>
+    Figure 2. P&ID of a textbook distillation plant example.
+  </figcaption>
+</figure><br>
+<br>
 
-<span style=color:red>Text ueber Simulation / Simulation in DWSIM</span>
+- Vizualisation of the [example simulation](./preHAZOP_Application/Input/Simulation_Distillation.xml)[^10]:
+<figure role="group">
+  <img src="./figures/Simulation_distillation.png" alt="SelfHTML-Logo" width=700>
+    <figcaption>
+    Figure 3. Simulation of a textbook distillation plant example for ethanol/water.
+  </figcaption>
+</figure><br>
+<br>
 
 ### References:
 [^1]: DEXPI Initiative, DEXPI Specification 1.3, https://dexpi.org/, accessed on 07-28-2022<br>
@@ -423,3 +437,4 @@ The folder *./preHAZOP_Application/Input* containts example file for an distilla
 [^7]: PySimpleGUI, online documentation, https://pysimplegui.readthedocs.io/en/latest/, accessed on 07-28-2022<br>
 [^8]: lxml development team, online documentation, https://lxml.de/, accessed on 07-28-2022<br>
 [^9]: Charlie Clark, online documentation, https://openpyxl.readthedocs.io/en/stable/, accessed on 07-28-2022<br>
+[^10]: A. Behr, D. W. Agar et al., Einfuehrung in die Technische Chemie, Springer Spektrum, 2016<br>
