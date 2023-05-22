@@ -45,9 +45,11 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
   - mysql.connector (vers. 8.0.31) [^5]
   - Other libraries are included with Python
 
-- Load all_codes.zip from https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/Results/Code/all_codes.zip
+***
 
-- Load XML zips from https://github.com/TUDoAD/Abschlussarbeiten_Oeing/tree/main/Yang/Results/XMLs
+### *Pressure Zone detection*
+
+The code of the automated pressure zone detection (python application) can be found there https://github.com/TUDoAD/preHAZOP/blob/main/preHAZOP_ExtensionPack/Pressure%20Zone%20Detection/Code_PressureZoneDetection.py
 
 - Place scripts with XMLs in one folder
 
